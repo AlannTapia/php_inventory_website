@@ -7,6 +7,8 @@ use App\Http\Livewire\CartComponent;
 use App\Http\Livewire\Component;
 use App\Http\Livewire\HomeComponent;
 use App\Http\Livewire\CheckoutComponent;
+use App\Http\Livewire\Admin\AdminDashboardComponent;
+use App\Http\Livewire\User\UserDashboardComponent;
 
 /*
 |--------------------------------------------------------------------------
@@ -35,10 +37,20 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
+/*
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+});
+*/
+
+Route::middleware(['auth'])->group(function(){
+    Route::get('/user/dashboard', UserDashboardComponent::Class)->name('user.dashboard');
+});
+
+Route::middleware(['auth', 'authadmin'])->group(function(){
+    Route::get('/admin/dashboard', AdminDashboardComponent::Class)->name('admin.dashboard');
 });
 
 require __DIR__.'/auth.php';
