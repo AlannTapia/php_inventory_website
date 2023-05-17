@@ -33,4 +33,3 @@ Route::get('/cart',CartComponent::class)->name('shop.cart');
 
 Route::get('/checkout',CheckoutComponent::class)->name('shop.checkout');
 
-//
