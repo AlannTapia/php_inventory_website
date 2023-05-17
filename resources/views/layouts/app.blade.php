@@ -39,9 +39,9 @@
                         <div class="text-center">
                             <div id="news-flash" class="d-inline-block">
                                 <ul>
-                                    <li>Get great devices up to 50% off <a href="shop.html">View details</a></li>
+                                    <li>Get great devices up to 50% off <a href="/shop">View details</a></li>
                                     <li>Supper Value Deals - Save more with coupons</li>
-                                    <li>Trendy 25silver jewelry, save up 35% off today <a href="shop.html">Shop now</a></li>
+                                    <li>Trendy 25silver jewelry, save up 35% off today <a href="/shop">Shop now</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
                                     </a>
                                 </div>
                                 <div class="header-action-icon-2">
-                                    <a class="mini-cart-icon" href="cart.html">
+                                    <a class="mini-cart-icon" href="/cart">
                                         <img alt="Surfside Media" src="assets/imgs/theme/icons/icon-cart.svg">
                                         <span class="pro-count blue">2</span>
                                     </a>
@@ -124,8 +124,8 @@
                                                 <h4>Total <span>$4000.00</span></h4>
                                             </div>
                                             <div class="shopping-cart-button">
-                                                <a href="cart.html" class="outline">View cart</a>
-                                                <a href="checkout.html">Checkout</a>
+                                                <a href="/cart" class="outline">View cart</a>
+                                                <a href="/checkout">Checkout</a>
                                             </div>
                                         </div>
                                     </div>
@@ -150,7 +150,7 @@
                             <div class="categori-dropdown-wrap categori-dropdown-active-large">
                                 <ul>
                                     <li class="has-children">
-                                        <a href="shop.html"><i class="surfsidemedia-font-dress"></i>Women's Clothing</a>
+                                        <a href="/shop"><i class="surfsidemedia-font-dress"></i>Women's Clothing</a>
                                         <div class="dropdown-menu">
                                             <ul class="mega-menu d-lg-flex">
                                                 <li class="mega-menu-col col-lg-7">
@@ -189,7 +189,7 @@
                                                         <div class="banne_info">
                                                             <h6>10% Off</h6>
                                                             <h4>New Arrival</h4>
-                                                            <a href="#">Shop now</a>
+                                                            <a href="/shop">Shop now</a>
                                                         </div>
                                                     </div>
                                                     <div class="header-banner2">
@@ -197,7 +197,7 @@
                                                         <div class="banne_info">
                                                             <h6>15% Off</h6>
                                                             <h4>Hot Deals</h4>
-                                                            <a href="#">Shop now</a>
+                                                            <a href="/shop">Shop now</a>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -205,7 +205,7 @@
                                         </div>
                                     </li>
                                     <li class="has-children">
-                                        <a href="shop.html"><i class="surfsidemedia-font-tshirt"></i>Men's Clothing</a>
+                                        <a href="/shop"><i class="surfsidemedia-font-tshirt"></i>Men's Clothing</a>
                                         <div class="dropdown-menu">
                                             <ul class="mega-menu d-lg-flex">
                                                 <li class="mega-menu-col col-lg-7">
@@ -243,7 +243,7 @@
                                                         <div class="banne_info">
                                                             <h6>10% Off</h6>
                                                             <h4>New Arrival</h4>
-                                                            <a href="#">Shop now</a>
+                                                            <a href="/shop">Shop now</a>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -251,7 +251,7 @@
                                         </div>
                                     </li>
                                     <li class="has-children">
-                                        <a href="shop.html"><i class="surfsidemedia-font-smartphone"></i> Cellphones</a>
+                                        <a href="/shop"><i class="surfsidemedia-font-smartphone"></i> Cellphones</a>
                                         <div class="dropdown-menu">
                                             <ul class="mega-menu d-lg-flex">
                                                 <li class="mega-menu-col col-lg-7">
@@ -290,7 +290,7 @@
                                                         <div class="banne_info">
                                                             <h6>10% Off</h6>
                                                             <h4>New Arrival</h4>
-                                                            <a href="#">Shop now</a>
+                                                            <a href="/shop">Shop now</a>
                                                         </div>
                                                     </div>
                                                     <div class="header-banner2">
@@ -298,7 +298,7 @@
                                                         <div class="banne_info">
                                                             <h6>15% Off</h6>
                                                             <h4>Hot Deals</h4>
-                                                            <a href="#">Shop now</a>
+                                                            <a href="/shop">Shop now</a>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -328,8 +328,8 @@
                             <nav>
                                 <ul>
                                     <li><a class="active" href="/">Home </a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="shop.html">Shop</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="/shop">Shop</a></li>
                                     <li class="position-static"><a href="#">Our Collections <i class="fi-rs-angle-down"></i></a>
                                         <ul class="mega-menu">
                                             <li class="sub-mega-menu sub-mega-menu-width-22">
@@ -374,7 +374,7 @@
                                                             <span class="new-price text-success">Save to 50%</span>
                                                         </div>
                                                         <div class="menu-banner-btn">
-                                                            <a href="product-details.html">Shop now</a>
+                                                            <a href="/shop">Shop now</a>
                                                         </div>
                                                     </div>
                                                     <div class="menu-banner-discount">
@@ -387,7 +387,7 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="blog.html">Blog </a></li>                                    
+                                    <li><a href="#">Blog </a></li>                                    
                                     <li><a href="contact.html">Contact</a></li>
                                     <li><a href="#">My Account<i class="fi-rs-angle-down"></i></a>
                                         @auth
@@ -424,7 +424,7 @@
                                 </a>
                             </div>
                             <div class="header-action-icon-2">
-                                <a class="mini-cart-icon" href="cart.html">
+                                <a class="mini-cart-icon" href="/cart">
                                     <img alt="Surfside Media" src="assets/imgs/theme/icons/icon-cart.svg">
                                     <span class="pro-count white">2</span>
                                 </a>
@@ -460,7 +460,7 @@
                                             <h4>Total <span>$383.00</span></h4>
                                         </div>
                                         <div class="shopping-cart-button">
-                                            <a href="cart.html">View cart</a>
+                                            <a href="/cart">View cart</a>
                                             <a href="shop-checkout.php">Checkout</a>
                                         </div>
                                     </div>
@@ -506,15 +506,15 @@
                         </a>
                         <div class="categori-dropdown-wrap categori-dropdown-active-small">
                             <ul>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-dress"></i>Women's Clothing</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-tshirt"></i>Men's Clothing</a></li>
-                                <li> <a href="shop.html"><i class="surfsidemedia-font-smartphone"></i> Cellphones</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-desktop"></i>Computer & Office</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-cpu"></i>Consumer Electronics</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-home"></i>Home & Garden</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-high-heels"></i>Shoes</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-teddy-bear"></i>Mother & Kids</a></li>
-                                <li><a href="shop.html"><i class="surfsidemedia-font-kite"></i>Outdoor fun</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-dress"></i>Women's Clothing</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-tshirt"></i>Men's Clothing</a></li>
+                                <li> <a href="/shop"><i class="surfsidemedia-font-smartphone"></i> Cellphones</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-desktop"></i>Computer & Office</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-cpu"></i>Consumer Electronics</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-home"></i>Home & Garden</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-high-heels"></i>Shoes</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-teddy-bear"></i>Mother & Kids</a></li>
+                                <li><a href="/shop"><i class="surfsidemedia-font-kite"></i>Outdoor fun</a></li>
                             </ul>
                         </div>
                     </div>
@@ -551,7 +551,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children"><span class="menu-expand"></span><a href="blog.html">Blog</a></li>
+                            <li class="menu-item-has-children"><span class="menu-expand"></span><a href="#">Blog</a></li>
                             <li class="menu-item-has-children"><span class="menu-expand"></span><a href="#">Language</a>
                                 <ul class="dropdown">
                                     <li><a href="#">English</a></li>
